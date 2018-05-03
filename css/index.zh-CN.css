@@ -1,0 +1,10 @@
+/* FONT FACE */
+@font-face {
+	font-family: "Xiongtuti";
+	font-style: normal;
+	font-weight: 400;
+	src: url(Xiongtuti.ttf) format('truetype');
+}
+body{
+	font-family: "PatrickHand", "Xiongtuti", "Microsoft Yahei", "微软雅黑", STXihei, "华文细黑", Helvetica, Arial;
+}
