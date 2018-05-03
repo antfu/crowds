@@ -7,7 +7,7 @@
 	font-family: "XiongtutiSubset";
 	font-style: normal;
 	font-weight: 400;
-	src: url(Xiongtuti-Subset.ttf) format('truetype');
+	src: url(Xiongtuti-Subset.ttf?v=1) format('truetype');
 }
 body{
 	font-family: "PatrickHand", "XiongtutiSubset", "Microsoft Yahei", "微软雅黑", STXihei, "华文细黑", Helvetica, Arial;
